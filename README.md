@@ -1,6 +1,5 @@
 The Fighting Fish Brewery website was a group project created for my Internet Tools and Web Design class.
 ------
-------
 
 The website includes the following five pages:
 1. Home
@@ -11,24 +10,24 @@ The website includes the following five pages:
 --------
 
 The entire project implements:
-*HTML
-*CSS 
-*JavaScript
-*Vue.js
-*AJAX
-*jQuery
-*Bootstrap
+* HTML
+* CSS 
+* JavaScript
+* Vue.js
+* AJAX
+* jQuery
+* Bootstrap
 --------
 
 I worked on the shop page using the following features of Vue.js:
-*Component
-*Two-way binding
-*Conditional rendering
-*Computed properties
-*Style changes based on data
+* Component
+* Two-way binding
+* Conditional rendering
+* Computed properties
+* Style changes based on data
 
-![Alt](picture/shopFrame1.png "Shop Page Frame")
-![Alt](picture/shopFrame2.png "Shop Page Frame")
-![Alt](picture/shopFrame3.png "Shop Page Frame")
-![Alt](picture/shopFrame4.png "Shop Page Frame")
-![Alt](picture/shopFrame5.png "Shop Page Frame")
+![Alt](WebProject/picture/shopFrame1.png "Shop Page Frame")
+![Alt](WebProject/picture/shopFrame2.png "Shop Page Frame")
+![Alt](WebProject/picture/shopFrame3.png "Shop Page Frame")
+![Alt](WebProject/picture/shopFrame4.png "Shop Page Frame")
+![Alt](WebProject/picture/shopFrame5.png "Shop Page Frame")
