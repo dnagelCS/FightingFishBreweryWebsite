@@ -26,8 +26,8 @@ I worked on the shop page using the following features of Vue.js:
 * Computed properties
 * Style changes based on data
 
-![Alt](WebProject/picture/shopFrame1.png "Shop Page Frame")
-![Alt](WebProject/picture/shopFrame2.png "Shop Page Frame")
-![Alt](WebProject/picture/shopFrame3.png "Shop Page Frame")
-![Alt](WebProject/picture/shopFrame4.png "Shop Page Frame")
-![Alt](WebProject/picture/shopFrame5.png "Shop Page Frame")
+![Alt](picture/shopFrame1.png "Shop Page Frame")
+![Alt](picture/shopFrame2.png "Shop Page Frame")
+![Alt](picture/shopFrame3.png "Shop Page Frame")
+![Alt](picture/shopFrame4.png "Shop Page Frame")
+![Alt](picture/shopFrame5.png "Shop Page Frame")
