@@ -1,6 +1,5 @@
 The Fighting Fish Brewery website was a group project created for my Internet Tools and Web Design class.
 -------
--------
 
 The website includes the following five pages:
 1. Home
