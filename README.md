@@ -1,5 +1,6 @@
 The Fighting Fish Brewery website was a group project created for my Internet Tools and Web Design class.
-------
+-------
+-------
 
 The website includes the following five pages:
 1. Home
@@ -10,7 +11,7 @@ The website includes the following five pages:
 
 The whole project implemented HTML, CSS, JavaScript, Vue.js, AJAX, jQuery, and Bootstrap.
 
-Check out the entire website [here](https://dnagelcs.github.io/FightingFishBreweryWebsite/)
+Check out the entire website [here](https://dnagelcs.github.io/FightingFishBreweryWebsite/).
 
 --------
 
