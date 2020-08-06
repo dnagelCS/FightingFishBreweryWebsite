@@ -8,9 +8,10 @@ The website includes the following five pages:
 1. Events
 1. Shop
 
+The whole project implemented HTML, CSS, JavaScript, Vue.js, AJAX, jQuery, and Bootstrap.
+
 Check out the entire website [here](https://dnagelcs.github.io/FightingFishBreweryWebsite/)
 
-The whole project implemented HTML, CSS, JavaScript, Vue.js, AJAX, jQuery, and Bootstrap.
 --------
 
 I worked on the shop page using the following features of Vue.js:
