@@ -7,16 +7,12 @@ The website includes the following five pages:
 1. Our Beers
 1. Events
 1. Shop
+
+Check out the entire website [here](https://dnagelcs.github.io/FightingFishBreweryWebsite/)
 --------
 
 The entire project implements:
-* HTML
-* CSS 
-* JavaScript
-* Vue.js
-* AJAX
-* jQuery
-* Bootstrap
+* HTML * CSS * JavaScript * Vue.js * AJAX * jQuery * Bootstrap
 --------
 
 I worked on the shop page using the following features of Vue.js:
